@@ -15,9 +15,11 @@ namespace HelloWorld
 
 
             // ②
-            Console.WriteLine("こんにちは、");
-            Console.WriteLine("はじめまして");
+            string Hello = "こんにちは、";
+            string NicetoMeet = "はじめまして";
 
+            string ewf = Hello + NicetoMeet ;
+            Console.WriteLine(ewf); // 出力：こんにちは、はじめまて
 
             Console.ReadKey(true);
         }
