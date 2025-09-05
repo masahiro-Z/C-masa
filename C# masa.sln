@@ -5,7 +5,7 @@ VisualStudioVersion = 17.14.36414.22
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C# 【課題】フォーム", "C# masa\C# 【課題】フォーム.csproj", "{34735CB7-6A1B-4907-BD9F-1C3430D210C4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorld", "HelloWorld\HelloWorld.csproj", "{EEADC0FF-ACE2-4B88-ADF5-A10FD52AE57E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "課題HelloWorld", "HelloWorld\課題HelloWorld.csproj", "{EEADC0FF-ACE2-4B88-ADF5-A10FD52AE57E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
