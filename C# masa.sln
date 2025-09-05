@@ -5,7 +5,7 @@ VisualStudioVersion = 17.14.36414.22
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C# 【課題】フォーム", "C# masa\C# 【課題】フォーム.csproj", "{34735CB7-6A1B-4907-BD9F-1C3430D210C4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C#【課題】クラス", "【課題】クラス\C#【課題】クラス.csproj", "{A47C7A30-70D5-4A00-897C-1EE81A534964}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorld", "HelloWorld\HelloWorld.csproj", "{EEADC0FF-ACE2-4B88-ADF5-A10FD52AE57E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{34735CB7-6A1B-4907-BD9F-1C3430D210C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{34735CB7-6A1B-4907-BD9F-1C3430D210C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{34735CB7-6A1B-4907-BD9F-1C3430D210C4}.Release|Any CPU.Build.0 = Release|Any CPU
-		{A47C7A30-70D5-4A00-897C-1EE81A534964}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{A47C7A30-70D5-4A00-897C-1EE81A534964}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{A47C7A30-70D5-4A00-897C-1EE81A534964}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{A47C7A30-70D5-4A00-897C-1EE81A534964}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EEADC0FF-ACE2-4B88-ADF5-A10FD52AE57E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEADC0FF-ACE2-4B88-ADF5-A10FD52AE57E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEADC0FF-ACE2-4B88-ADF5-A10FD52AE57E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEADC0FF-ACE2-4B88-ADF5-A10FD52AE57E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
