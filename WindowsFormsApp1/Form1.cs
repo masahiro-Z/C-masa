@@ -52,15 +52,14 @@ namespace WindowsFormsApp1
             if (5 < x && x % 2 != 0)
             { label1.Text = "5以上　2の倍数ではない";}
             
-                    
-                    
-                    
-                    
-                    
-                    
-                    }
+         }
 
         private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void textBox1_TextChanged(object sender, EventArgs e)
         {
 
         }
