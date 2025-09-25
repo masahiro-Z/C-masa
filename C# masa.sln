@@ -3,9 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.14.36414.22
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C# 【課題】フォーム", "C# masa\C# 【課題】フォーム.csproj", "{34735CB7-6A1B-4907-BD9F-1C3430D210C4}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "課題HelloWorld", "HelloWorld\課題HelloWorld.csproj", "{EEADC0FF-ACE2-4B88-ADF5-A10FD52AE57E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApp1", "WindowsFormsApp1\WindowsFormsApp1.csproj", "{9BF5609A-183E-4B25-A951-F2F4408FC746}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,14 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{34735CB7-6A1B-4907-BD9F-1C3430D210C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{34735CB7-6A1B-4907-BD9F-1C3430D210C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{34735CB7-6A1B-4907-BD9F-1C3430D210C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{34735CB7-6A1B-4907-BD9F-1C3430D210C4}.Release|Any CPU.Build.0 = Release|Any CPU
-		{EEADC0FF-ACE2-4B88-ADF5-A10FD52AE57E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{EEADC0FF-ACE2-4B88-ADF5-A10FD52AE57E}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{EEADC0FF-ACE2-4B88-ADF5-A10FD52AE57E}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{EEADC0FF-ACE2-4B88-ADF5-A10FD52AE57E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9BF5609A-183E-4B25-A951-F2F4408FC746}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BF5609A-183E-4B25-A951-F2F4408FC746}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BF5609A-183E-4B25-A951-F2F4408FC746}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BF5609A-183E-4B25-A951-F2F4408FC746}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
